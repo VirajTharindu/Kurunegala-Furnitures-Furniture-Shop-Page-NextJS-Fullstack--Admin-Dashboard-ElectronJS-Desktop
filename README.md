@@ -205,7 +205,7 @@ I would be happy to discuss the architecture, design decisions, or provide a pri
 
 📧 Email: [virajtharindu1997@gmail.com](mailto:virajtharindu1997@gmail.com)  
 💼 LinkedIn: [viraj-tharindu](https://www.linkedin.com/in/viraj-tharindu/)  
-🌐 Portfolio: [vjstyles.com](https://viraj-tharindu-portfolio-web-site.vercel.app/) 
+🌐 Portfolio: [Viraj-Tharindu](https://viraj-tharindu-portfolio-web-site.vercel.app/) 
 🐙 GitHub: [VirajTharindu](https://github.com/VirajTharindu)  
 
 ---
